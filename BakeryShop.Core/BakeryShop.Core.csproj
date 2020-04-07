@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Profiles\" />
     <Folder Include="ViewModels\" />
   </ItemGroup>
 
